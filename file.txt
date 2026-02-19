@@ -2,3 +2,4 @@ This is my text file
 This is another line in my text file
 This is a new line text for my first branch
 Adding another modification to file
+Correct line of text
